@@ -24,6 +24,6 @@ It provides insights into retention, satisfaction, and performance trends.
 - Supports HR in designing retention strategies
 
 ## Files
-- `HR_Analytics_Dashboard.pbix` → Power BI dashboard
-- `HR_Analytics_Dataset.csv` → dataset
-- `images/` → screenshots of visuals
+- `HR_Attrition_Analysis_PowerBI.pbix` → Power BI dashboard
+- `HR_Analytics.xlsx` → dataset
+- `HR_Analytics_Dashboard_Snap/` → screenshots of visuals
